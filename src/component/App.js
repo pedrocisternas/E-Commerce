@@ -1,8 +1,9 @@
 import React, { Component } from "react";
+import Products from "/workspace/html-hello/src/component/Products/Products.jsx";
 
-export const App = () => (
+const App = () => (
 	<div>
-		E-Commerce
+		<Products/>
 	</div>
 );
 
