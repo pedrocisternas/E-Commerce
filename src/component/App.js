@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Products from "/workspace/html-hello/src/component/Products/Products.jsx";
+import Products from "./Products/Products";
 
 const App = () => (
 	<div>
